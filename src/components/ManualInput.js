@@ -102,10 +102,10 @@ const ManualInput = ({ onAnalyze, onBack }) => {
       <div className="mt-6 p-4 bg-blue-50 rounded-lg">
         <h3 className="font-semibold text-blue-800 mb-2">💡 Why use manual input?</h3>
         <ul className="text-sm text-blue-700 space-y-1">
-          <li>• Bypasses CORS restrictions and proxy limitations</li>
-          <li>• Works with any website, including local/private sites</li>
-          <li>• Faster analysis (no network delays)</li>
-          <li>• Useful for testing draft content before publishing</li>
+          <li>Bypasses CORS restrictions and proxy limitations</li>
+          <li>Works with any website, including local/private sites</li>
+          <li>Faster analysis (no network delays)</li>
+          <li>Useful for testing draft content before publishing</li>
         </ul>
       </div>
     </div>
