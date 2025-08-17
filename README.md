@@ -220,7 +220,7 @@ If you encounter any issues or have questions:
 
 1. **Check the troubleshooting section** above for common solutions
 2. **Use Manual HTML Input** if URL analysis fails
-3. **Check the [Issues](https://github.com/yourusername/seo-metadata-analyzer/issues) page**
+3. **Check the [Issues](https://github.com/anurags10/SEO-Metadata-Tag-Analyzer/issues) page**
 4. **Create a new issue** with detailed information
 5. **Include browser version and error messages**
 
